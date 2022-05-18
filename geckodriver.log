@@ -1,0 +1,1743 @@
+1650995366712	geckodriver	INFO	Listening on 127.0.0.1:60147
+1650995367269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60148" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileuo2PcK"
+1650995369671	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileuo2PcK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60148/devtools/browser/712eee5d-b24d-470b-bdf7-03132fd16d70
+1650995386518	Marionette	INFO	Listening on port 60151
+1650995386648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1650996145438	Marionette	INFO	Stopped listening on port 60151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651043101859	geckodriver	INFO	Listening on 127.0.0.1:61165
+1651043102403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61166" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile9CeZNx"
+1651043105461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile9CeZNx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61166/devtools/browser/d0da47d0-dd84-4d4e-b0fd-b6e404d2fc23
+1651043112198	Marionette	INFO	Listening on port 61169
+1651043112729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651043212594	Marionette	INFO	Stopped listening on port 61169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651043257553	geckodriver	INFO	Listening on 127.0.0.1:61337
+1651043258097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61338" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileRUCGm1"
+1651043259370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileRUCGm1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61338/devtools/browser/83e14b3a-c633-4f82-b57d-9a7dd96e6d7f
+1651043263314	Marionette	INFO	Listening on port 61341
+1651043263549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651043412361	Marionette	INFO	Stopped listening on port 61341
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Trem\AppData\Local\Temp\rust_mozprofileRUCGm1\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channeconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileYwYQOp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61504/devtools/browser/a231419f-b6a8-4d57-a131-cf965f2abca0
+1651043415099	Marionette	INFO	Listening on port 61507
+1651043415288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651043550844	Marionette	INFO	Stopped listening on port 61507
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651043740088	geckodriver	INFO	Listening on 127.0.0.1:61762
+1651043740645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61763" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewoWUiv"
+1651043741334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewoWUiv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61763/devtools/browser/63e7860f-0117-4e22-b96a-a102ac00ecf1
+1651043745872	Marionette	INFO	Listening on port 61768
+1651043745987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651043786323	Marionette	INFO	Stopped listening on port 61768
+1651044081687	geckodriver	INFO	Listening on 127.0.0.1:62081
+1651044081728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62082" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilehp0GWw"
+1651044082626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilehp0GWw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62082/devtools/browser/dfcda241-cf4c-4e61-a754-95a667a2d159
+1651044087659	Marionette	INFO	Listening on port 62085
+1651044088117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651044112107	Marionette	INFO	Stopped listening on port 62085
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651044115540	geckodriver	INFO	Listening on 127.0.0.1:62171
+1651044116100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62172" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileXcgvHR"
+1651044117065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileXcgvHR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62172/devtools/browser/7db64999-27d4-4e2a-b7e9-ffecd5c5ffa4
+1651044121156	Marionette	INFO	Listening on port 62176
+1651044121643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651044793702	Marionette	INFO	Stopped listening on port 62176
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 268, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ew NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileYpiHMN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62477/devtools/browser/a7a64dde-60e4-4a91-abe3-6ee1f6475f59
+1651044634538	Marionette	INFO	Listening on port 62480
+1651044634924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651044654623	Marionette	INFO	Stopped listening on port 62480
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651044657603	geckodriver	INFO	Listening on 127.0.0.1:62547
+1651044658033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62548" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile3IZVz5"
+1651044658826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile3IZVz5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62548/devtools/browser/10f778c8-7b4e-49d6-8127-60981d22c3c9
+1651044662897	Marionette	INFO	Listening on port 62551
+1651044663390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651044790257	Marionette	INFO	Stopped listening on port 62551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+4754885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofiletZlx9q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62629/devtools/browser/5253be56-c3b5-4e56-a24b-1103c411a048
+1651044761555	Marionette	INFO	Listening on port 62632
+1651044761944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651044820192	Marionette	INFO	Stopped listening on port 62632
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651044830530	geckodriver	INFO	Listening on 127.0.0.1:62713
+1651044831089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62714" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile6yXeIj"
+1651044831887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile6yXeIj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62714/devtools/browser/2ae847aa-40de-44fa-afa4-fc7f11419e2f
+1651044835665	Marionette	INFO	Listening on port 62717
+1651044835963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651044930298	Marionette	INFO	Stopped listening on port 62717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62788" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilee1GHFe"
+1651044925691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilee1GHFe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62788/devtools/browser/38f4c4c4-fd03-4ee0-8bdd-3608f5bd2596
+1651044929579	Marionette	INFO	Listening on port 62791
+1651044929910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651044946249	Marionette	INFO	Stopped listening on port 62791
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651044948605	geckodriver	INFO	Listening on 127.0.0.1:62858
+1651044948643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62859" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilebOAoNK"
+1651044949333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilebOAoNK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62859/devtools/browser/b3858f81-60cd-4c47-8273-361dafdb87e5
+1651044953215	Marionette	INFO	Listening on port 62862
+1651044953452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651045355157	Marionette	INFO	Stopped listening on port 62862
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651045488608	geckodriver	INFO	Listening on 127.0.0.1:63173
+1651045489181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63174" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileIIyxkc"
+1651045489921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileIIyxkc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63174/devtools/browser/d81cf4e1-6e54-46f5-9453-be091c02b7c9
+1651045494034	Marionette	INFO	Listening on port 63177
+1651045494110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651045522529	Marionette	INFO	Stopped listening on port 63177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651045659858	geckodriver	INFO	Listening on 127.0.0.1:63266
+1651045660414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63267" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilebBXIJF"
+1651045661200	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilebBXIJF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63267/devtools/browser/028bdcf9-32cc-44f9-a4b9-55ec12c9021c
+1651045665299	Marionette	INFO	Listening on port 63270
+1651045665733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651045675309	Marionette	INFO	Stopped listening on port 63270
+1651045678060	geckodriver	INFO	Listening on 127.0.0.1:63339
+1651045678617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63340" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilenI3qwW"
+1651045679520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilenI3qwW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63340/devtools/browser/cc1f6325-4adb-4d2d-b709-3e4d1b52bfa1
+1651045683369	Marionette	INFO	Listening on port 63345
+1651045683428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651046579518	Marionette	INFO	Stopped listening on port 63345
+[Parent 6552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 996: Error: Connection is not open.
+t_mozprofilekKUKH4"
+1651046188650	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilekKUKH4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63652/devtools/browser/ad49ca4c-a2a6-47b9-ba68-6a01f6760a0a
+1651046192946	Marionette	INFO	Listening on port 63655
+1651046193159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651046856555	Marionette	INFO	Stopped listening on port 63655
+[Parent 6656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+otFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileJdm3CU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63867/devtools/browser/5e113a4b-30c8-40bf-b5e9-cbc28c25faa5
+1651046835606	Marionette	INFO	Listening on port 63870
+1651046836087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651046852887	Marionette	INFO	Stopped listening on port 63870
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651046860198	geckodriver	INFO	Listening on 127.0.0.1:63934
+1651046860755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63935" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewByM6G"
+1651046861820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewByM6G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63935/devtools/browser/08523197-187e-4c87-97f0-471d13662269
+1651046866157	Marionette	INFO	Listening on port 63938
+1651046866621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651048032528	Marionette	INFO	Stopped listening on port 63938
+1651048035120	geckodriver	INFO	Listening on 127.0.0.1:64268
+1651048035669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64269" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileq15WNL"
+1651048036728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileq15WNL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64269/devtools/browser/effecc7c-3083-475c-a70b-57f614c79a64
+1651048041135	Marionette	INFO	Listening on port 64272
+1651048041541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651048057014	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651048161525	Marionette	INFO	Stopped listening on port 64272
+1651048224327	geckodriver	INFO	Listening on 127.0.0.1:64353
+1651048224373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64354" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile8uhxVX"
+1651048225105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile8uhxVX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64354/devtools/browser/f575f31e-a9c8-4875-89ef-dce5c3d22051
+1651048230807	Marionette	INFO	Listening on port 64357
+1651048231006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651051328167	Marionette	INFO	Stopped listening on port 64357
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651051342277	geckodriver	INFO	Listening on 127.0.0.1:64955
+1651051342420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64956" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile9ZjKDE"
+1651051345661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile9ZjKDE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64956/devtools/browser/44614e79-7922-4ed8-8adc-73d23f5e1a97
+1651051351157	Marionette	INFO	Listening on port 64962
+1651051351260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651051438210	Marionette	INFO	Stopped listening on port 64962
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651051468794	geckodriver	INFO	Listening on 127.0.0.1:65035
+1651051468854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65036" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile5g4pRf"
+1651051469549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile5g4pRf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65036/devtools/browser/e928b943-c346-481d-aa00-3d2a841ab660
+1651051473959	Marionette	INFO	Listening on port 65039
+1651051474198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651051524752	Marionette	INFO	Stopped listening on port 65039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651051532679	geckodriver	INFO	Listening on 127.0.0.1:65117
+1651051533313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65118" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileQ2RcSC"
+1651051533955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileQ2RcSC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65118/devtools/browser/58fd5bab-a109-4680-b6e7-a1ce3979bdb7
+1651051538140	Marionette	INFO	Listening on port 65121
+1651051538660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651051743775	Marionette	INFO	Stopped listening on port 65121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651051747099	geckodriver	INFO	Listening on 127.0.0.1:65207
+1651051747592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65208" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileKcnLk5"
+1651051748290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileKcnLk5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65208/devtools/browser/1e5cd8c2-2b24-4e6a-a8f1-cfce6172d159
+1651051752110	Marionette	INFO	Listening on port 65211
+1651051752438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651052384195	Marionette	INFO	Stopped listening on port 65211
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651052386305	geckodriver	INFO	Listening on 127.0.0.1:65389
+1651052386867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65390" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileJAdLoO"
+1651052387674	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileJAdLoO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65390/devtools/browser/128f8dae-bd42-40a8-95d9-b609facd844c
+1651052391572	Marionette	INFO	Listening on port 65393
+1651052391708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1651052416428	Marionette	INFO	Stopped listening on port 65393
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651052419031	geckodriver	INFO	Listening on 127.0.0.1:65457
+1651052419566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65458" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileNnCAe1"
+1651052420196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileNnCAe1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65458/devtools/browser/7fa56c70-54a5-4f68-a74b-100d1063cb86
+1651052423851	Marionette	INFO	Listening on port 65461
+1651052424372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651052648495	Marionette	INFO	Stopped listening on port 65461
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651052650848	geckodriver	INFO	Listening on 127.0.0.1:49174
+1651052651384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49175" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilevNmvLZ"
+1651052652045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilevNmvLZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49175/devtools/browser/69d8c11b-1584-4a12-b56a-dcc22b14b9d4
+1651052655837	Marionette	INFO	Listening on port 49178
+1651052656225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651052802110	Marionette	INFO	Stopped listening on port 49178
+1651052882996	geckodriver	INFO	Listening on 127.0.0.1:49276
+1651052883550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49277" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile8BQSCF"
+1651052884287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile8BQSCF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49277/devtools/browser/def319d5-e8a8-4c2d-ab84-e816633f1329
+1651052888042	Marionette	INFO	Listening on port 49280
+1651052888373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651052965355	Marionette	INFO	Stopped listening on port 49280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651056168202	geckodriver	INFO	Listening on 127.0.0.1:50134
+1651056168244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50135" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileduwcfp"
+1651056170670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileduwcfp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50135/devtools/browser/ada531fe-3e71-4454-8348-7696d02c452d
+1651056178719	Marionette	INFO	Listening on port 50138
+1651056179061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651056186437	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651056287976	Marionette	INFO	Stopped listening on port 50138
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651056293285	geckodriver	INFO	Listening on 127.0.0.1:50236
+1651056293313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50237" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileJ33ZmT"
+1651056294852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileJ33ZmT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50237/devtools/browser/824ea12f-3f92-4b60-8366-868a8ebf7838
+1651056300788	Marionette	INFO	Listening on port 50240
+1651056300844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651056371718	Marionette	INFO	Stopped listening on port 50240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651056375680	geckodriver	INFO	Listening on 127.0.0.1:50476
+1651056376218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50477" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile35cv4a"
+1651056376993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile35cv4a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50477/devtools/browser/93366972-7bb6-4e80-84e1-af9b52c87121
+1651056380863	Marionette	INFO	Listening on port 50480
+1651056381042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651056497673	Marionette	INFO	Stopped listening on port 50480
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651056501038	geckodriver	INFO	Listening on 127.0.0.1:53486
+1651056501587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53487" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilemHytmN"
+1651056502538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilemHytmN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53487/devtools/browser/b1dcd5e1-4ec6-470a-9c7d-88a42f0f0213
+1651056506533	Marionette	INFO	Listening on port 53490
+1651056507063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651056853759	Marionette	INFO	Stopped listening on port 53490
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1651056856832	geckodriver	INFO	Listening on 127.0.0.1:58488
+1651056857357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58489" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilei5t2PL"
+1651056858417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilei5t2PL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58489/devtools/browser/37d13646-1e61-4405-9e23-64aba720f15d
+1651056862216	Marionette	INFO	Listening on port 58492
+1651056862526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651057449364	geckodriver	INFO	Listening on 127.0.0.1:58980
+1651057449446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58981" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileYxWVVB"
+1651057450761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileYxWVVB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58981/devtools/browser/47e17ff6-0fb6-4b41-b5ec-e474ab56fd3d
+1651057455898	Marionette	INFO	Listening on port 58985
+1651057455953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651057467910	Marionette	INFO	Stopped listening on port 58985
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651057475832	geckodriver	INFO	Listening on 127.0.0.1:59051
+1651057475883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59052" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile3yDMHv"
+1651057476657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile3yDMHv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59052/devtools/browser/d7bc1bf3-4c0e-4920-8c8d-16d1b19335d7
+1651057480985	Marionette	INFO	Listening on port 59055
+1651057481208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651057852683	Marionette	INFO	Stopped listening on port 59055
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651060249259	geckodriver	INFO	Listening on 127.0.0.1:59193
+1651060249804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59194" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileRHpi19"
+*** You are running in headless mode.
+1651060251299	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileRHpi19\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59194/devtools/browser/ba1549f9-ed10-4ff1-8d90-369f17fd1bf4
+1651060254782	Marionette	INFO	Listening on port 59197
+1651060255198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileRHpi19\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileRHpi19\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileRHpi19\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileRHpi19\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileRHpi19\thumbnails) because it does not exist
+renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileICMHvF\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileICMHvF\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileICMHvF\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileICMHvF\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileICMHvF\thumbnails) because it does not exist
+renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileWF7jos\thumbnails) because it does not exist
+ebugging-port" "59404" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileMyoTNP"
+*** You are running in headless mode.
+1651060502332	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileMyoTNP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59404/devtools/browser/85e8b6ae-6a0b-4ed1-852c-bdab5e19c055
+1651060505097	Marionette	INFO	Listening on port 59407
+1651060505270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileMyoTNP\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileMyoTNP\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileMyoTNP\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileMyoTNP\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Trem\AppData\Local\Temp\rust_mozprofileMyoTNP\thumbnails) because it does not exist
+renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651067022193	geckodriver	INFO	Listening on 127.0.0.1:59969
+1651067022715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59970" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileeAUb3M"
+*** You are running in headless mode.
+1651067023753	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileeAUb3M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59970/devtools/browser/98af50b1-f97d-40e1-be50-e37f3393c39f
+1651067026979	Marionette	INFO	Listening on port 59973
+1651067027072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651067232147	geckodriver	INFO	Listening on 127.0.0.1:60036
+1651067232708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60037" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile9FOz1k"
+*** You are running in headless mode.
+1651067233681	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile9FOz1k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60037/devtools/browser/068c12af-eb27-4962-816b-e4a9f457c257
+1651067236544	Marionette	INFO	Listening on port 60040
+1651067236918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651067535161	geckodriver	INFO	Listening on 127.0.0.1:60140
+1651067535884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60141" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilemqG3mO"
+1651067544507	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilemqG3mO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60141/devtools/browser/8df378e5-f5dc-419d-8b5c-2c50a894aac1
+1651067565099	Marionette	INFO	Listening on port 60145
+1651067565575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651069946242	Marionette	INFO	Stopped listening on port 60145
+[Parent 12468, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te-debugging-port" "60286" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilejqTFGD"
+1651069892511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilejqTFGD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60286/devtools/browser/a0c7ed1d-5283-4267-a363-ff23f1158b6b
+1651069898213	Marionette	INFO	Listening on port 60289
+1651069898405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651069947479	Marionette	INFO	Stopped listening on port 60289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651069957520	geckodriver	INFO	Listening on 127.0.0.1:60351
+1651069958075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60352" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileXNUfl8"
+1651069958933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileXNUfl8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60352/devtools/browser/81287ffc-f1c5-4ba9-ac34-04fb1172aa50
+1651069964691	Marionette	INFO	Listening on port 60355
+1651069965073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483653/layout44, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651072779399	Marionette	INFO	Stopped listening on port 60355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651072796596	geckodriver	INFO	Listening on 127.0.0.1:60493
+1651072797157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60494" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileEg0uXw"
+1651072798209	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileEg0uXw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60494/devtools/browser/ec0444c1-9739-4674-80f6-6a458529c1d7
+1651072802728	Marionette	INFO	Listening on port 60497
+1651072803095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651072838515	Marionette	INFO	Stopped listening on port 60497
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651083660282	geckodriver	INFO	Listening on 127.0.0.1:60802
+1651083660332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60803" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilexhP8Cp"
+1651083661518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilexhP8Cp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60803/devtools/browser/decf73cf-bb03-4b3f-8ea9-a2d6a3c24aeb
+1651083669890	Marionette	INFO	Listening on port 60806
+1651083670403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: ChunkLoadError: Loading chunk 26 failed.
+(error: https://www.rusprofile.ru/assets/flex_menu.acbb65ab86eb2033b2ee.js)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651083741739	Marionette	INFO	Stopped listening on port 60806
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651129364555	geckodriver	INFO	Listening on 127.0.0.1:49775
+1651129364591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49776" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile7Yfw5F"
+1651129365891	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile7Yfw5F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49776/devtools/browser/779a8b95-359c-41bc-bd07-d79d9e76722c
+1651129370888	Marionette	INFO	Listening on port 49779
+1651129370984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: ChunkLoadError: Loading chunk 26 failed.
+(error: https://www.rusprofile.ru/assets/flex_menu.acbb65ab86eb2033b2ee.js)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651129608301	Marionette	INFO	Stopped listening on port 49779
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3228, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651129611321	geckodriver	INFO	Listening on 127.0.0.1:49865
+1651129611907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49866" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilefrxF8e"
+1651129612489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilefrxF8e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49866/devtools/browser/4c805d68-7372-4aa1-b702-939d21fa45c1
+1651129615924	Marionette	INFO	Listening on port 49869
+1651129616083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651129689609	Marionette	INFO	Stopped listening on port 49869
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651129808887	geckodriver	INFO	Listening on 127.0.0.1:49935
+1651129808924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49936" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileOV4YAO"
+1651129809488	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileOV4YAO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49936/devtools/browser/e2caa6f8-92e4-433c-b342-dc0ef9ce234f
+1651129812974	Marionette	INFO	Listening on port 49939
+1651129813128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: ChunkLoadError: Loading chunk 26 failed.
+(error: https://www.rusprofile.ru/assets/flex_menu.acbb65ab86eb2033b2ee.js)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651129945969	Marionette	INFO	Stopped listening on port 49939
+1651129948988	geckodriver	INFO	Listening on 127.0.0.1:50006
+1651129949024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50007" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileN8rk4U"
+1651129949646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileN8rk4U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50007/devtools/browser/b27e1130-dc66-4796-8307-68577678191c
+1651129953087	Marionette	INFO	Listening on port 50010
+1651129953192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651130651120	Marionette	INFO	Stopped listening on port 50010
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50075" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileCEtelJ"
+1651130145213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileCEtelJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50075/devtools/browser/270e9143-e599-4b17-8710-7488be97f11c
+1651130148753	Marionette	INFO	Listening on port 50078
+1651130149124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=e94122c73d3e880dfc561967e4bc3af9, line 2: Error: Request aborted
+1651130651857	Marionette	INFO	Stopped listening on port 50078
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+eadless" "--remote-debugging-port" "50161" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileIvdc0r"
+*** You are running in headless mode.
+1651130424500	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileIvdc0r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50161/devtools/browser/8e8cade4-45cd-43d0-96de-518a0ad6b9f1
+1651130426825	Marionette	INFO	Listening on port 50164
+1651130427109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651132903156	geckodriver	INFO	Listening on 127.0.0.1:51064
+1651132903207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51065" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileYJiczg"
+1651132904161	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileYJiczg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51065/devtools/browser/66c1b257-2d83-4471-a3bf-e31964b310cc
+1651132909162	Marionette	INFO	Listening on port 51068
+1651132909582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651132946582	Marionette	INFO	Stopped listening on port 51068
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651132971048	geckodriver	INFO	Listening on 127.0.0.1:51168
+1651132971083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51169" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilerOMKG1"
+1651132971778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilerOMKG1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51169/devtools/browser/50b391ba-8c11-4aef-b4d2-f0f16daaf94c
+1651132975337	Marionette	INFO	Listening on port 51172
+1651132975410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651132994844	Marionette	INFO	Stopped listening on port 51172
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651133007828	geckodriver	INFO	Listening on 127.0.0.1:51250
+1651133008399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51251" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilePIdpB6"
+1651133009029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilePIdpB6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51251/devtools/browser/cfe197fc-40c0-4d2e-9322-6fdde7606acb
+1651133012720	Marionette	INFO	Listening on port 51254
+1651133013225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651133023910	Marionette	INFO	Stopped listening on port 51254
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651160342891	geckodriver	INFO	Listening on 127.0.0.1:53404
+1651160343471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53405" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile2FzGZY"
+1651160345363	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile2FzGZY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53405/devtools/browser/e7659575-da50-4fbc-8c07-b0716ddae138
+1651160352014	Marionette	INFO	Listening on port 53408
+1651160352462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651161480679	Marionette	INFO	Stopped listening on port 53408
+[Parent 5312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileMxXzPW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53570/devtools/browser/54e933a4-754b-4363-93f4-6c128888fb9f
+1651161096717	Marionette	INFO	Listening on port 53573
+1651161096944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651161488304	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651161855106	Marionette	INFO	Stopped listening on port 53573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651161970070	geckodriver	INFO	Listening on 127.0.0.1:53733
+1651161970635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53734" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileX9UsV9"
+1651161971294	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileX9UsV9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53734/devtools/browser/6f971c4a-7a6d-46d8-ad4f-ae5219b9fda3
+1651161975417	Marionette	INFO	Listening on port 53737
+1651161975481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651162000990	Marionette	INFO	Stopped listening on port 53737
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651162022633	geckodriver	INFO	Listening on 127.0.0.1:53793
+1651162023197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53794" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilee2ezXC"
+1651162023984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilee2ezXC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53794/devtools/browser/79a63a99-046b-4e69-930a-3fd2d65b57d1
+1651162027741	Marionette	INFO	Listening on port 53797
+1651162028025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651162036412	Marionette	INFO	Stopped listening on port 53797
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651163561758	geckodriver	INFO	Listening on 127.0.0.1:53906
+1651163562338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53907" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileKynluG"
+1651163563030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileKynluG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53907/devtools/browser/7e76cbbd-1582-40a7-bf75-25bed0b71118
+1651163568104	Marionette	INFO	Listening on port 53910
+1651163568173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651163623154	Marionette	INFO	Stopped listening on port 53910
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1651229116642	geckodriver	INFO	Listening on 127.0.0.1:54671
+1651229116819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54672" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileMQkYHw"
+1651229120494	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileMQkYHw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54672/devtools/browser/2e1dbe42-38eb-4e7b-b2aa-de9d0db0ba14
+1651229137178	Marionette	INFO	Listening on port 54675
+1651229137763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651229196662	Marionette	INFO	Stopped listening on port 54675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651229223384	geckodriver	INFO	Listening on 127.0.0.1:54776
+1651229223722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54777" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile2gQi4o"
+1651229225545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile2gQi4o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54777/devtools/browser/e7b489aa-8a05-48d3-998d-84899dc29726
+1651229232191	Marionette	INFO	Listening on port 54780
+1651229232241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1651229258766	Marionette	INFO	Stopped listening on port 54780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651229277239	geckodriver	INFO	Listening on 127.0.0.1:54856
+1651229277764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54857" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileY6I2Cx"
+1651229278716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileY6I2Cx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54857/devtools/browser/948fc7fc-cf6a-4872-bf1b-30d9bf011e4e
+1651229284838	Marionette	INFO	Listening on port 54860
+1651229285256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651229312568	Marionette	INFO	Stopped listening on port 54860
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651229340029	geckodriver	INFO	Listening on 127.0.0.1:54962
+1651229340548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54963" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileTcnbnK"
+1651229341851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileTcnbnK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54963/devtools/browser/3ff6b5ea-0e57-4fd9-bc65-3f41ed5472a4
+1651229347797	Marionette	INFO	Listening on port 54966
+1651229348036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651229544864	Marionette	INFO	Stopped listening on port 54966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652260203520	geckodriver	INFO	Listening on 127.0.0.1:53570
+1652260204111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53571" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilepdWRO9"
+1652260205778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilepdWRO9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53571/devtools/browser/e35f96f4-41f1-439f-bee8-e59f3fed40d0
+1652260210915	Marionette	INFO	Listening on port 53574
+1652260211305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652260350307	Marionette	INFO	Stopped listening on port 53574
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileM7440E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53626/devtools/browser/9217fa97-1986-4742-8f87-d29b84f336f6
+1652260329492	Marionette	INFO	Listening on port 53629
+1652260329893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652260347801	Marionette	INFO	Stopped listening on port 53629
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652260457017	geckodriver	INFO	Listening on 127.0.0.1:53676
+1652260457569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53677" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilei4eYWp"
+1652260458175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilei4eYWp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53677/devtools/browser/4a9c79c4-34eb-41f4-aa19-16bfc699f24f
+1652260462111	Marionette	INFO	Listening on port 53680
+1652260462419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652260486382	Marionette	INFO	Stopped listening on port 53680
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+1652260581215	geckodriver	INFO	Listening on 127.0.0.1:53741
+1652260581773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53742" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileWTjxAb"
+1652260582350	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileWTjxAb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53742/devtools/browser/91e282e6-dc28-4714-be1a-6b94f85e1b71
+1652260586076	Marionette	INFO	Listening on port 53745
+1652260586589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652261010101	Marionette	INFO	Stopped listening on port 53745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652271922320	geckodriver	INFO	Listening on 127.0.0.1:59765
+1652271922409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59766" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileHWPdTX"
+1652271924382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileHWPdTX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59766/devtools/browser/fd3afd82-cfaa-4b6f-b7a1-be65ec9654c6
+1652271932041	Marionette	INFO	Listening on port 59769
+1652271932589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=81f727264bb9fbab6ee0e08c57a8886d, line 2: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=81f727264bb9fbab6ee0e08c57a8886d, line 2: Error: Request aborted
+1652272897338	Marionette	INFO	Stopped listening on port 59769
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652453657375	geckodriver	INFO	Listening on 127.0.0.1:59315
+1652453657452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59316" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilegYruaH"
+1652453920506	geckodriver	INFO	Listening on 127.0.0.1:56596
+1652453920890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56597" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileHpvLFw"
+1652453922864	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileHpvLFw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56597/devtools/browser/8012e989-6732-4950-8f77-4d64cd4ad1ba
+1652453929156	Marionette	INFO	Listening on port 56600
+1652453929463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652454006098	Marionette	INFO	Stopped listening on port 56600
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56671" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileHoWTt9"
+1652454007184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileHoWTt9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56671/devtools/browser/d74c6751-1eef-4826-977b-80296a3ee0cc
+1652454011739	Marionette	INFO	Listening on port 56674
+1652454011971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652454303292	Marionette	INFO	Stopped listening on port 56674
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56780" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilevnDNiX"
+1652454234483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilevnDNiX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56780/devtools/browser/54713fd9-c226-4392-a09c-ec6a75b7d3cf
+1652454241242	Marionette	INFO	Listening on port 56783
+1652454241725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652454247063	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652454256083	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652454293340	Marionette	INFO	Stopped listening on port 56783
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652454308676	geckodriver	INFO	Listening on 127.0.0.1:56865
+1652454309166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56866" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofiletDWp5u"
+1652454310976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofiletDWp5u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56866/devtools/browser/324d0cd7-424c-465e-96e0-da86fe8dbb78
+1652454314699	Marionette	INFO	Listening on port 56869
+1652454314998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652454339740	Marionette	INFO	Stopped listening on port 56869
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652458759894	geckodriver	INFO	Listening on 127.0.0.1:64054
+1652458760550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64055" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileiaVjxv"
+1652458767028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileiaVjxv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64055/devtools/browser/db0b620d-4d49-4fa7-90ee-956e769196ff
+1652458775618	Marionette	INFO	Listening on port 64058
+1652458775831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652458782850	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652458791856	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652458804110	Marionette	INFO	Stopped listening on port 64058
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652458814104	geckodriver	INFO	Listening on 127.0.0.1:64127
+1652458814689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64128" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilehxErLU"
+1652458815471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilehxErLU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64128/devtools/browser/a5cf52b4-74a5-477d-9b81-4c00a8d5f44c
+1652458819124	Marionette	INFO	Listening on port 64131
+1652458819578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652459073059	Marionette	INFO	Stopped listening on port 64131
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64233" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilecHYu3W"
+1652459047539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilecHYu3W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64233/devtools/browser/a3e0178f-bdb3-4321-b64a-86a806159203
+1652459051911	Marionette	INFO	Listening on port 64236
+1652459052282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652459073895	Marionette	INFO	Stopped listening on port 64236
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652459095314	geckodriver	INFO	Listening on 127.0.0.1:64297
+1652459095827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64298" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilesYc5VW"
+1652459099613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilesYc5VW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64298/devtools/browser/092486be-f87a-46a8-b9b3-42435fa80d95
+1652459104084	Marionette	INFO	Listening on port 64301
+1652459104364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 36 failed.
+(error: https://www.rusprofile.ru/assets/main_page.50bf35283a20184aaede.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.f881714bcd47030a8101.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.85f7da6cad1b5c062ee3.js)
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652459220877	Marionette	INFO	Stopped listening on port 64301652459221319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64399" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilehfKr3i"
+1652459224597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilehfKr3i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64399/devtools/browser/94371b9b-098e-4337-a09c-f7e2f566e57e
+1652459228842	Marionette	INFO	Listening on port 64404
+1652459229346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652459822918	Marionette	INFO	Stopped listening on port 64404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+9329532	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofiled85e79\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64518/devtools/browser/4e37d18c-70b6-4507-9a93-3493e62bb882
+1652459336767	Marionette	INFO	Listening on port 64521
+1652459337042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652459872693	Marionette	INFO	Stopped listening on port 64521
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652459996304	geckodriver	INFO	Listening on 127.0.0.1:64834
+1652459996850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64835" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilebqLhHp"
+1652459998329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilebqLhHp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64835/devtools/browser/950e17c9-bccf-4687-b5a8-406f51593373
+1652460004667	Marionette	INFO	Listening on port 64838
+1652460004848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652460311735	Marionette	INFO	Stopped listening on port 64838
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ould not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile98lrBb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64909/devtools/browser/7e78cea5-036d-4b73-bb0e-b7e12bf04742
+1652460230786	Marionette	INFO	Listening on port 64912
+1652460230999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.f881714bcd47030a8101.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.85f7da6cad1b5c062ee3.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 74 failed.
+(error: https://www.rusprofile.ru/assets/scrollspy.66e5c20a995a8182222e.js)
+1652460308522	Marionette	INFO	Stopped listening on port 64912
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652460337299	geckodriver	INFO	Listening on 127.0.0.1:64988
+1652460337819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64989" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileJNyf1x"
+1652460339669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileJNyf1x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64989/devtools/browser/9b1505c7-a872-4e61-823c-c3cda6800465
+1652460343188	Marionette	INFO	Listening on port 64992
+1652460343660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652460432314	Marionette	INFO	Stopped listening on port 64992
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652460436068	geckodriver	INFO	Listening on 127.0.0.1:65055
+1652460436108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65056" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileFc3sVB"
+1652460436829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileFc3sVB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65056/devtools/browser/19df19b7-3629-4e6e-8ec8-980a93169a94
+1652460440477	Marionette	INFO	Listening on port 65059
+1652460440950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 36 failed.
+(error: https://www.rusprofile.ru/assets/main_page.50bf35283a20184aaede.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.f881714bcd47030a8101.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.85f7da6cad1b5c062ee3.js)
+1652460958176	Marionette	INFO	Stopped listening on port 65059
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60638" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile4cR2L6"
+1652460642572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile4cR2L6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60638/devtools/browser/1b7159c0-5429-490a-ac95-32600f2cb479
+1652460647876	Marionette	INFO	Listening on port 60641
+1652460647923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652460956971	Marionette	INFO	Stopped listening on port 60641
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652523649695	geckodriver	INFO	Listening on 127.0.0.1:56431
+1652523649788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56432" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileYg73fQ"
+1652523652011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileYg73fQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56432/devtools/browser/052c5b5a-481d-4b4f-9a4e-4485560e39c1
+1652523658557	Marionette	INFO	Listening on port 56435
+1652523658943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652523769002	Marionette	INFO	Stopped listening on port 56435
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652523773531	geckodriver	INFO	Listening on 127.0.0.1:56510
+1652523773589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56511" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile3X8sbc"
+1652523774383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile3X8sbc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56511/devtools/browser/39f6327e-848d-4f95-83a3-97831145e84f
+1652523778048	Marionette	INFO	Listening on port 56514
+1652523778441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652523858054	Marionette	INFO	Stopped listening on port 56514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56583" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileciyUR0"
+1652523851070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileciyUR0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56583/devtools/browser/31b5ed54-b441-4e6a-8b70-70fd9539ebd1
+1652523855491	Marionette	INFO	Listening on port 56586
+1652523855548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652523865547	Marionette	INFO	Stopped listening on port 56586
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652523871727	geckodriver	INFO	Listening on 127.0.0.1:56654
+1652523871832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56655" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewM3H4v"
+1652523872475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewM3H4v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56655/devtools/browser/8b7f2077-f336-44a0-b2b8-f1b341144857
+1652523876046	Marionette	INFO	Listening on port 56658
+1652523876128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652524047708	Marionette	INFO	Stopped listening on port 56658
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56731" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilecgq9rI"
+1652524021446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilecgq9rI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56731/devtools/browser/d18bbf43-3750-4cc1-833f-12973a1c1769
+1652524025227	Marionette	INFO	Listening on port 56734
+1652524025644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.f881714bcd47030a8101.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.85f7da6cad1b5c062ee3.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 74 failed.
+(error: https://www.rusprofile.ru/assets/scrollspy.66e5c20a995a8182222e.js)
+1652524227837	Marionette	INFO	Stopped listening on port 56734
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+ng-port" "56853" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileXoO796"
+1652524228814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileXoO796\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56853/devtools/browser/3a5f5f94-72a2-4005-9c92-537edf85c065
+1652524233124	Marionette	INFO	Listening on port 56856
+1652524233522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652524236024	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652524236924	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652524466142	Marionette	INFO	Stopped listening on port 56856
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652524470457	geckodriver	INFO	Listening on 127.0.0.1:56998
+1652524471006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56999" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile8cCfh6"
+1652524471719	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile8cCfh6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56999/devtools/browser/ee453e23-0219-4e82-b870-d01946cfa6d4
+1652524475211	Marionette	INFO	Listening on port 57002
+1652524475314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 36 failed.
+(error: https://www.rusprofile.ru/assets/main_page.50bf35283a20184aaede.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.f881714bcd47030a8101.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.85f7da6cad1b5c062ee3.js)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652524708622	Marionette	INFO	Stopped listening on port 57002
+1652524761966	geckodriver	INFO	Listening on 127.0.0.1:57101
+1652524762518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57102" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileNFV29k"
+1652524763238	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileNFV29k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57102/devtools/browser/cf88f7d2-2abd-443a-bc27-5230a24eedaa
+1652524766990	Marionette	INFO	Listening on port 57105
+1652524767321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652526408223	geckodriver	INFO	Listening on 127.0.0.1:57466
+1652526408266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57467" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile1JqZHd"
+1652526411230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile1JqZHd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57467/devtools/browser/3d3e7517-ec44-4cb4-9ab1-6971b107f1c7
+1652526417765	Marionette	INFO	Listening on port 57470
+1652526417922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652526427290	Marionette	INFO	Stopped listening on port 57470
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652532086853	geckodriver	INFO	Listening on 127.0.0.1:59310
+1652532087422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59311" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilejZ3krC"
+1652532089503	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilejZ3krC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59311/devtools/browser/3bd0f35b-2530-478d-9d84-f3c0c7519eb9
+1652532094771	Marionette	INFO	Listening on port 59314
+1652532094918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652532208026	Marionette	INFO	Stopped listening on port 59314
+1652532214774	geckodriver	INFO	Listening on 127.0.0.1:59399
+1652532215346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59400" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile0K6aLr"
+1652532216114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile0K6aLr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59400/devtools/browser/df62197b-67d7-4782-b5bc-3a81e368f1b1
+1652532219577	Marionette	INFO	Listening on port 59403
+1652532219658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652532434666	Marionette	INFO	Stopped listening on port 59403
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileezTA7J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59485/devtools/browser/e624fd3b-a4dd-4672-a8f7-149a9fddea02
+1652532372666	Marionette	INFO	Listening on port 59488
+1652532372979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652532435560	Marionette	INFO	Stopped listening on port 59488
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652532445167	geckodriver	INFO	Listening on 127.0.0.1:59568
+1652532445200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59569" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile5KYtXF"
+1652532445940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile5KYtXF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59569/devtools/browser/b5fa98cc-288b-4a68-891c-c3810264a732
+1652532449419	Marionette	INFO	Listening on port 59572
+1652532449495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652532485697	Marionette	INFO	Stopped listening on port 59572
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1392, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+1652532525144	geckodriver	INFO	Listening on 127.0.0.1:59637
+1652532525178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59638" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile3C93mY"
+1652532525803	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile3C93mY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59638/devtools/browser/5159698d-1b59-4cda-b19c-e2a26bd5e0c1
+1652532529091	Marionette	INFO	Listening on port 59641
+1652532529369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652532768149	Marionette	INFO	Stopped listening on port 59641
+70	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileeSWabX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59720/devtools/browser/0f5de1aa-b117-4e8e-a8de-29d3fe86bcb4
+1652532649588	Marionette	INFO	Listening on port 59723
+1652532650077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652532769375	Marionette	INFO	Stopped listening on port 59723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652533012069	geckodriver	INFO	Listening on 127.0.0.1:59910
+1652533012132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59911" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofiletWfa4Z"
+1652533013131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofiletWfa4Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59911/devtools/browser/ef7b24d6-32f7-4708-981f-3de88e1aea2b
+1652533016977	Marionette	INFO	Listening on port 59914
+1652533017503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652533226968	Marionette	INFO	Stopped listening on port 59914
+1652533234867	geckodriver	INFO	Listening on 127.0.0.1:60046
+1652533235417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60047" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileTxCdKX"
+1652533236120	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileTxCdKX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60047/devtools/browser/0b8aabf9-8485-493d-a8ee-26294bf4b526
+1652533239586	Marionette	INFO	Listening on port 60050
+1652533239620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652533433683	Marionette	INFO	Stopped listening on port 60050
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652533437626	geckodriver	INFO	Listening on 127.0.0.1:60148
+1652533437656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60149" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilehLxEPm"
+1652533438346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilehLxEPm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60149/devtools/browser/09e1d55f-5705-4ecf-b22c-9c4e36035ade
+1652533441793	Marionette	INFO	Listening on port 60152
+1652533441846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652533900365	Marionette	INFO	Stopped listening on port 60152
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofile7O1GFQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60289/devtools/browser/d7ed23d9-c8b3-49e4-b0fa-0aee8e1bd829
+1652533680090	Marionette	INFO	Listening on port 60292
+1652533680234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.f881714bcd47030a8101.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 41 failed.
+(error: https://www.rusprofile.ru/assets/mw_shared_uid.03c2561dbdd6669ce2be.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.85f7da6cad1b5c062ee3.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 74 failed.
+(error: https://www.rusprofile.ru/assets/scrollspy.66e5c20a995a8182222e.js)
+1652533895019	Marionette	INFO	Stopped listening on port 60292
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+uld not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilegZOnhC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60385/devtools/browser/56dc55f7-ccc5-4cc4-9892-af99b1e5f0d1
+1652533775184	Marionette	INFO	Listening on port 60388
+1652533775477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.85f7da6cad1b5c062ee3.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.f881714bcd47030a8101.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 69 failed.
+(error: https://www.rusprofile.ru/assets/prohibition.daac9771adef5defb492.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 36 failed.
+(error: https://www.rusprofile.ru/assets/main_page.50bf35283a20184aaede.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 41 failed.
+(error: https://www.rusprofile.ru/assets/mw_shared_uid.03c2561dbdd6669ce2be.js)
+1652533896016	Marionette	INFO	Stopped listening on port 60388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+1652534017735	geckodriver	INFO	Listening on 127.0.0.1:60511
+1652534018291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60512" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilej5bRJr"
+1652534019056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilej5bRJr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60512/devtools/browser/70ec16e9-ce12-4604-af9b-5edcde43c69d
+1652534022669	Marionette	INFO	Listening on port 60515
+1652534023116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.f881714bcd47030a8101.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.85f7da6cad1b5c062ee3.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=9c9f9a82ac9066f57b8b9bb2612e6486, line 2: ChunkLoadError: Loading chunk 74 failed.
+(error: https://www.rusprofile.ru/assets/scrollspy.66e5c20a995a8182222e.js)
+[GFX1-]: Killing GPU process due to IPC reply timeout
+1652534536886	Marionette	INFO	Stopped listening on port 60515
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652534543665	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+[Parent 7496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7496, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+[Parent 7496, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Parent 7496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+es\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60731" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilePQHkIo"
+*** You are running in headless mode.
+1652534390576	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilePQHkIo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60731/devtools/browser/3027ee46-e1c1-45b3-8a4a-60e21f949c84
+1652534392985	Marionette	INFO	Listening on port 60734
+1652534393515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652534518229	geckodriver	INFO	Listening on 127.0.0.1:60834
+1652534518793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60835" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewaPo73"
+*** You are running in headless mode.
+1652534520683	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewaPo73\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60835/devtools/browser/b1c39e71-2a88-4acf-8238-125db8047316
+1652534524929	Marionette	INFO	Listening on port 60838
+1652534525224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652534663880	geckodriver	INFO	Listening on 127.0.0.1:60940
+1652534664038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60941" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileWQNwZo"
+*** You are running in headless mode.
+1652534665502	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileWQNwZo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60941/devtools/browser/b73b31d3-e677-45e4-9673-c8463cdafa32
+1652534669369	Marionette	INFO	Listening on port 60944
+1652534669426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652804869614	geckodriver	INFO	Listening on 127.0.0.1:54296
+1652804869689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54297" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileQiAPIH"
+*** You are running in headless mode.
+1652804872939	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileQiAPIH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54297/devtools/browser/2e58c752-ebd2-43b2-ac23-5720c0bb0e1d
+1652804876238	Marionette	INFO	Listening on port 54300
+1652804876416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652804879750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652806120874	geckodriver	INFO	Listening on 127.0.0.1:55215
+1652806121430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55216" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileRC6vWG"
+1652806122595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileRC6vWG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55216/devtools/browser/0bab92cf-9664-4f3b-bfe5-a0a660109c7f
+1652806127331	Marionette	INFO	Listening on port 55219
+1652806127836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652807967989	Marionette	INFO	Stopped listening on port 55219
+2807562218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63754" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilecnpI8O"
+1652807563659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilecnpI8O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63754/devtools/browser/677a37fe-d348-4ef0-93e6-f426ede61ea0
+1652807569767	Marionette	INFO	Listening on port 63757
+1652807569846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=af3bcc0f25882736ceaf842ae1b30535, line 2: ChunkLoadError: Loading chunk 36 failed.
+(error: https://www.rusprofile.ru/assets/main_page.93f627585da15dde3284.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=af3bcc0f25882736ceaf842ae1b30535, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.bfa9009bed7e56421e0d.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=af3bcc0f25882736ceaf842ae1b30535, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.cc84ebb8cbc17106c592.js)
+1652807956042	Marionette	INFO	Stopped listening on port 63757
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:153:26
+
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+zprofileXxFwfT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63916/devtools/browser/cdcc348f-6a06-4569-905f-4ad411508f06
+1652807955697	Marionette	INFO	Listening on port 63919
+1652807955896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652808023536	Marionette	INFO	Stopped listening on port 63919
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652808037195	geckodriver	INFO	Listening on 127.0.0.1:64000
+1652808037737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64001" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileTLsp0a"
+1652808038472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileTLsp0a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64001/devtools/browser/3a33b897-5c77-44a4-8757-d008693fd2ed
+1652808041871	Marionette	INFO	Listening on port 64004
+1652808041950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=af3bcc0f25882736ceaf842ae1b30535, line 2: ChunkLoadError: Loading chunk 36 failed.
+(error: https://www.rusprofile.ru/assets/main_page.93f627585da15dde3284.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=af3bcc0f25882736ceaf842ae1b30535, line 2: ChunkLoadError: Loading chunk 76 failed.
+(error: https://www.rusprofile.ru/assets/show_container.bfa9009bed7e56421e0d.js)
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=af3bcc0f25882736ceaf842ae1b30535, line 2: ChunkLoadError: Loading chunk 42 failed.
+(error: https://www.rusprofile.ru/assets/mw_support.cc84ebb8cbc17106c592.js)
+1652808074502	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652808103236	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652808108231	Marionette	INFO	Stopped listening on port 64004
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652808115996	geckodriver	INFO	Listening on 127.0.0.1:64080
+1652808116041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64081" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileeDBSRy"
+1652808116774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileeDBSRy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64081/devtools/browser/9768af59-ae30-4b9f-b6c0-8b0743bca32e
+1652808120320	Marionette	INFO	Listening on port 64084
+1652808120847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+1652808655749	geckodriver	INFO	Listening on 127.0.0.1:64251
+1652808655793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64252" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewUhf3y"
+1652808656454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofilewUhf3y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64252/devtools/browser/08435e13-22db-494e-8e14-56503156bae4
+1652808660394	Marionette	INFO	Listening on port 64255
+1652808660610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+JavaScript error: https://www.rusprofile.ru/assets/main.js?v=af3bcc0f25882736ceaf842ae1b30535, line 2: ChunkLoadError: Loading chunk 74 failed.
+(error: https://www.rusprofile.ru/assets/scrollspy.2ba164b50f0916f6eb50.js)
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652874638903	geckodriver	INFO	Listening on 127.0.0.1:53307
+1652874638979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53308" "-no-remote" "-profile" "C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileJ8GHQx"
+*** You are running in headless mode.
+1652874640529	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Trem\\AppData\\Local\\Temp\\rust_mozprofileJ8GHQx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53308/devtools/browser/62904d6a-04ff-48da-95c4-c347dac1e0fc
+1652874644304	Marionette	INFO	Listening on port 53311
+1652874644849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rusprofile.ru"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1652875545171	Marionette	INFO	Stopped listening on port 53311
+[Parent 5720, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
